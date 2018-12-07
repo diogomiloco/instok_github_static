@@ -6,16 +6,16 @@ workbox.precaching.precacheAndRoute([
     "revision": "a0486795b347baff05a5d436c3e7abae"
   },
   {
-    "url": "/instok_github_static/_nuxt/62bab70925eed669201b.js",
-    "revision": "ff7dd039e29b4ab01ef7b454759134bc"
-  },
-  {
     "url": "/instok_github_static/_nuxt/84a641d0b52cd546e687.js",
     "revision": "d9ef83ba2730d6f4c1100abaf4910fe4"
   },
   {
     "url": "/instok_github_static/_nuxt/9f9d27d7894fd16d58b4.js",
     "revision": "d91bbf5c5eddcb37d00d608d4bc1416b"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/a328180336f2e3a09165.js",
+    "revision": "8823c6e4d1db6c91aeca09ab0b326103"
   },
   {
     "url": "/instok_github_static/_nuxt/b903e42718ca67e71865.js",
