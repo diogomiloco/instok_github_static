@@ -2,39 +2,39 @@ importScripts('/instok_github_static/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/instok_github_static/_nuxt/1885a429c8469a59ec84.js",
-    "revision": "27e4d500823513b69732bc3af363cd44"
+    "url": "/instok_github_static/_nuxt/145626dcd251908d848e.js",
+    "revision": "3209aa7609a7f8ca13df3861706c10b0"
   },
   {
-    "url": "/instok_github_static/_nuxt/2d38ce9259f8a77cd64b.js",
-    "revision": "a0486795b347baff05a5d436c3e7abae"
+    "url": "/instok_github_static/_nuxt/18b4ff1a1928f71baa47.js",
+    "revision": "5788768fb0de4cb9c94f0f3616748722"
   },
   {
-    "url": "/instok_github_static/_nuxt/8b32c9f4f86ed06cfd29.js",
-    "revision": "b6a24dd3b9be5b9d4f988d91f42892e4"
+    "url": "/instok_github_static/_nuxt/204f203481c421715ee0.js",
+    "revision": "c981fdb757c4f95270c65788a6500c2d"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/4045c84209c80cfdb41a.js",
+    "revision": "bd6c8ef1758ec49b7f95a432a69e0900"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/778c6a14bbe2cb9a66e4.js",
+    "revision": "a191edd0f291dbb9c255ece344ef996e"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/8545b4a9af34ccd6ae56.js",
+    "revision": "c764997393d8ff230b426be3113db72a"
   },
   {
     "url": "/instok_github_static/_nuxt/9f9d27d7894fd16d58b4.js",
     "revision": "d91bbf5c5eddcb37d00d608d4bc1416b"
   },
   {
-    "url": "/instok_github_static/_nuxt/c034d99103b574ad55b3.js",
-    "revision": "53609ddc2ac4b0bc05012ac0c7612665"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/d6aaed6986c084ebe837.js",
-    "revision": "966502527ef6e9c5d6a932aff29d2ff1"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/d8d4cfd777b5f030b58b.js",
-    "revision": "5739755a173ea3a99c7dc4cca5b841b0"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/fc3f3bdea35b91d0a6cc.js",
-    "revision": "2c7a4e2a9a16a75f95b4538177b1978d"
+    "url": "/instok_github_static/_nuxt/d651659d7a6456a96171.js",
+    "revision": "56d73d7ffc1fb31fd5cce5a9a7b2506e"
   }
 ], {
-  "cacheId": "instok_fakedoor",
+  "cacheId": "instok",
   "directoryIndex": "/",
   "cleanUrls": false
 })
