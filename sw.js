@@ -2,36 +2,36 @@ importScripts('/instok_github_static/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/instok_github_static/_nuxt/015f4b0ad8bdd709c7d7.js",
-    "revision": "0af32b5dab161424672cefa642bb3804"
+    "url": "/instok_github_static/_nuxt/21f09b8f505b53893605.js",
+    "revision": "adeea1274cf4645de4bdd0436752c530"
   },
   {
-    "url": "/instok_github_static/_nuxt/028ae3904ba914609311.js",
-    "revision": "85ebcd4e21ef46d5fd6310a754e34916"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/145626dcd251908d848e.js",
-    "revision": "3209aa7609a7f8ca13df3861706c10b0"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/204f203481c421715ee0.js",
-    "revision": "c981fdb757c4f95270c65788a6500c2d"
-  },
-  {
-    "url": "/instok_github_static/_nuxt/778c6a14bbe2cb9a66e4.js",
-    "revision": "a191edd0f291dbb9c255ece344ef996e"
+    "url": "/instok_github_static/_nuxt/354cee100b8ea7895f88.js",
+    "revision": "37b94835cca98cc0d545888fea44c3e8"
   },
   {
     "url": "/instok_github_static/_nuxt/9f9d27d7894fd16d58b4.js",
     "revision": "d91bbf5c5eddcb37d00d608d4bc1416b"
   },
   {
-    "url": "/instok_github_static/_nuxt/d651659d7a6456a96171.js",
-    "revision": "56d73d7ffc1fb31fd5cce5a9a7b2506e"
+    "url": "/instok_github_static/_nuxt/b431324d875e467d3e48.js",
+    "revision": "7e5b05d03120a9837d3fc445652ecd42"
   },
   {
-    "url": "/instok_github_static/_nuxt/f62d26e5b660bb5d7c30.js",
-    "revision": "43d846bff68c1e7588c7e055f8467e03"
+    "url": "/instok_github_static/_nuxt/bb0ecb17e581edda02b1.js",
+    "revision": "40dd9754f985f3d5921ad8dca7c5d745"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/c2cc87a30f806714f4b1.js",
+    "revision": "7b3fb01f755538d948dc17cf1fcf3e33"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/c51315ab92ce90bf6b0c.js",
+    "revision": "f8573b1fccc16b7be82337bf4812e045"
+  },
+  {
+    "url": "/instok_github_static/_nuxt/d651659d7a6456a96171.js",
+    "revision": "56d73d7ffc1fb31fd5cce5a9a7b2506e"
   }
 ], {
   "cacheId": "instok",
