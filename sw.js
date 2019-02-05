@@ -30,8 +30,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "56d73d7ffc1fb31fd5cce5a9a7b2506e"
   },
   {
-    "url": "./_nuxt/ff116ebe75a165e2ab7a.js",
-    "revision": "0a3d82ecabbe9192ad48d70f316ba021"
+    "url": "./_nuxt/dc08e38b2a8ec5e256c9.js",
+    "revision": "bde06e3ee990a9e00ef9d7a957fcd71f"
   }
 ], {
   "cacheId": "instok",
